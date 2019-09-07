@@ -1,0 +1,25 @@
+body{
+  background: #CCC;
+}
+
+h1,h2{
+  text-align: center;
+}
+
+.ui.container{
+  display: flex!important;
+  align-items: center!important;
+  justify-content: center!important;
+}
+
+.ui.card{
+  margin: 20px 0!important;
+}
+
+.ui.medium.image{
+  margin-bottom: 14px;
+}
+
+.header{
+  margin: 10px 0!important;
+}
